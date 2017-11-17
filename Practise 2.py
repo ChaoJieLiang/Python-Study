@@ -26,3 +26,13 @@ print(full_name.title())
 name = "Albert Einstein"
 word = "A person who never made a mistake never tried anything new."
 print(name.title() + 'once said, "' + word + '"')
+
+# C2.8
+print(1 + 7)
+print(2 + 6)
+print(3 + 5)
+print(4 + 4)
+
+# C2.9
+my_favourate_num = 13
+print("My favourate number is " + str(my_favourate_num))
