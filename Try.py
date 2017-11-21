@@ -1,3 +1,2 @@
-bicycle = ['trek', 'cannondale', 'redline',' specialized']
-print(bicycle)
-print(bicycle[0])
+name = input("Please enter your name：")
+print("Hello, " + name + "!")
