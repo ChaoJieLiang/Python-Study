@@ -173,10 +173,9 @@ user_profile = build_profile('albert', 'einstein', location='princenton', field=
 print(user_profile)
 '''
 
+'''
 # 8.14
 profile = {}
-
-
 def build_car_profile(name, mfg, **car_profile):
    profile['name'] = name
    profile['mfg'] = mfg
@@ -188,4 +187,4 @@ def build_car_profile(name, mfg, **car_profile):
 
 car = build_car_profile('subaru', 'outback', color='blue', two_package=True)
 print(car)
-
+'''

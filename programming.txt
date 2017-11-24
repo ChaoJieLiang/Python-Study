@@ -1,0 +1,3 @@
+In Python you can search file.
+In Python you can control device.
+In Python you can program gami.
